@@ -126,6 +126,21 @@ Yazılımcıyla iletişime geç! 🚀
 
 ---
 
+## 👤 Yazar
+
+**Sinan Seyfi YETGİNER**
+- 🐙 [GitHub](https://github.com/sinanseyfiyetginer)
+- 💼 [LinkedIn](https://linkedin.com/in/sinanseyfiyetginer)
+- 🐦 [Twitter](https://twitter.com/sinanseyfiyetginer)
+
+---
+
+## 📜 Lisans
+
+Bu proje açık kaynak koddur. Özgürce kullanabilirsiniz.
+
+---
+
 **Hazırsa, başla!** 🎯
 
 ```bash
